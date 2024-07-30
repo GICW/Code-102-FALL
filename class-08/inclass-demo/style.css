@@ -1,0 +1,44 @@
+/* external style sheet */
+
+/* body {
+  background-color: #00DDDD;
+} */
+
+h1 {
+  border: 2px solid black;
+  /* text-align: center; */
+  width: 30%;
+  margin: auto;
+  /* text-align: center; */
+}
+
+p {
+  background-color: aqua;
+}
+
+/* ID: one unique element */
+#hero-img-caption {
+  background-color: pink;
+}
+
+
+/* Classes: group similar elements */
+.cookie-caption {
+  background-color: blueviolet;
+  color: white;
+  /* padding: 20px; */
+}
+
+section {
+  display: inline-block;
+  width: 30%;
+  margin-left: 10px;
+}
+
+section img {
+  width: 100%;
+}
+
+.loop-img {
+  width: 200px;
+}
