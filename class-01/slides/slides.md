@@ -23,11 +23,6 @@ Welcome to class!
 
 ---
 
-NOTE:
-Remind students there is further information about accessing Tutoring in the course syllabus, and also on the Code Fellows web site.
-
----
-
 <!-- SLIDE 11 -->
 <!-- .element class="text-only" -->
 
@@ -71,7 +66,7 @@ There is homework: Reading assignments prior to lecture, lab work not completed 
 NOTE:
 Introductions!
 
-Instructor should introduce themselves first, with their Professional Pitch.
+Instructor: Professional Pitch.
 
 ---
 
