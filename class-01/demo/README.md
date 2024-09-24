@@ -11,7 +11,7 @@ Students are going to tell you how to create a brand-new web site with GitHub Pa
 1. ASK: If you have no idea how to do this, how would you start?
     - Take suggestions from students.
     - Hopefully, someone will suggest "google it". You can do so and open the page.
-1. Show students the [GitHub Pages intro video](https://www.youtube.com/watch?v=2MsN8gpT6jY), which is also embedded in the GH Pages homepage.
+1. Show students the [GitHub Pages intro video]([https://www.youtube.com/watch?v=2MsN8gpT6jY](https://www.youtube.com/results?search_query=github+pages+intro+video)), which is also embedded in the GH Pages homepage.
     - ASK for reactions and observations. Expect things like "that was confusing".
     - ASK if anyone remembers the steps.
     - WRITE DOWN any steps that anyone remembers, no matter the order.
