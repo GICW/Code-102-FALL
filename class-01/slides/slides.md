@@ -10,19 +10,6 @@ Welcome to class!
 
 ---
 
-# Self-Care
-
-- Take breaks <!-- .element class="fragment" data-fragment-index="1" -->
-  - Meal breaks
-  - 10 minutes away from your computer if frustrated.
-- Ask for help <!-- .element class="fragment" data-fragment-index="2" -->
-  - 15 minute rule!
-- Time management <!-- .element class="fragment" data-fragment-index="3" -->
-  - Make a schedule/routine
-- REST! <!-- .element class="fragment" data-fragment-index="4" -->
-
----
-
 <!-- SLIDE 11 -->
 <!-- .element class="text-only" -->
 
@@ -78,10 +65,7 @@ Instructor: Professional Pitch.
 - Campus Orientation & Intros
 - Learning to Learn <!-- .element class="highlight" -->
   - Growth mindset
-  - Demo & Lab
-- Web Publishing
-  - Markdown
-  - GitHub Pages
+  - assignments on Canvas
 
 NOTE:
 You are here. Take a break before proceeding!
@@ -298,8 +282,10 @@ What is the Growth Mindset response to each of these?  [Answers from the class]
 
 What questions can you ask yourself when you are feeling stuck? [Answers from the class]
 
----
 
+
+---
+For 102 Class 1: 
 <!-- SLIDE 25 -->
 <!-- .element class="title-and-subtitle"-->
 
@@ -328,15 +314,24 @@ After the Demo, get students going on the LAB assignment.
 - Learning to Learn
   - Growth mindset
   - Demo & Lab
-- Web Publishing <!-- .element class="highlight" -->
+  - Web Publishing <!-- .element class="highlight" -->
   - Markdown
   - GitHub Pages
 
-NOTE:
-Take a break before proceeding!
-
 ---
 
+# Self-Care
+
+- Take breaks <!-- .element class="fragment" data-fragment-index="1" -->
+  - Meal breaks
+  - 10 minutes away from your computer if frustrated.
+- Ask for help <!-- .element class="fragment" data-fragment-index="2" -->
+  - 15 minute rule!
+- Time management <!-- .element class="fragment" data-fragment-index="3" -->
+  - Make a schedule/routine
+- REST! <!-- .element class="fragment" data-fragment-index="4" -->
+
+---
 <!-- SLIDE 27 -->
 <!-- .element class="title-and-subtitle" -->
 
