@@ -129,7 +129,7 @@ Today you'll have different learning experiences. Some portions of the class wil
 
 # TELL:
 
-You may recall the experience of a sandbox environment: it can feel overwhelming and/or uncomfortable at first. That's okay! Just like there are skills for learning in a path environment, like taking notes, asking clarifying questions, and listening, there are skills for learning in a sandbox environment: defining what you want to learn and how you want to learn it, adjusting course when necessary, and being able to identify when you've learned it. Like any skills, they take time and practice to acquire. Here at Code Fellows, we intentionally use a mix of both path and sandbox learning to help you learn concepts, and also learn how to learn - an important skill for software developers.
+You may recall the experience of a sandbox environment: it can feel overwhelming and/or uncomfortable at first. That's okay! Just like there are skills for learning in a path environment, like taking notes, asking clarifying questions, and listening, there are skills for learning in a sandbox environment: defining what you want to learn and how you want to learn it, adjusting course when necessary, and being able to identify when you've learned it. Like any skills, they take time and practice to acquire. Here at our ITTP program, we intentionally use a mix of both path and sandbox learning to help you learn concepts, and also learn how to learn - an important skill for software developers.
 
 ---
 
