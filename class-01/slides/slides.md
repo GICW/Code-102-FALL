@@ -1,17 +1,39 @@
 <!-- SLIDE 0 -->
 <!-- .element class="main-title" -->
 
-# Code 102: Intro to Software Development
+Welcome to Orientation!
 
-Class 01
+# Agenda
+
+- Campus Orientation & Intros
+- Sign Code of Conduct, Laptop distribution, computer configs
+- Learning to Learn <!-- .element class="highlight" -->
+  - Growth mindset
+  - assignments on Canvas
+---
+# Introduce yourself! Tell us ...
+
+<div>
+
+<div>
+
+- Who are you (nickname/pronoun)?
+- What industry did you come from?
+- Share why you are in this class, now?
+- A fun and/or geeky fact about you?
+
+</div>
+
+</div>
 
 NOTE:
-Welcome to class!
+Introductions!
 
----
-
+Instructor: Professional Pitch.
 <!-- SLIDE 11 -->
 <!-- .element class="text-only" -->
+
+# Code 102: Intro to Software Development
 
 # The Classroom
 
@@ -32,47 +54,6 @@ Assignments are auto-graded: Get feedback directly from classmates, TA, instruct
 
 There is homework: Reading assignments prior to lecture, lab work not completed in class.
 
-<!-- SLIDE 14 -->
-<!-- .element class="split-screen-with-title" -->
-
-# Introduce yourself! Tell us ...
-
-<div>
-
-<div>
-
-- Who are you (nickname/pronoun)?
-- What industry did you come from?
-- Share why you are in this class, now?
-- A fun and/or geeky fact about you?
-
-</div>
-
-</div>
-
-NOTE:
-Introductions!
-
-Instructor: Professional Pitch.
-
----
-
-<!-- SLIDE 15 -->
-<!-- .element class="title-and-subtitle" -->
-
-# Agenda
-
-- Campus Orientation & Intros
-- Learning to Learn <!-- .element class="highlight" -->
-  - Growth mindset
-  - assignments on Canvas
-
-NOTE:
-You are here. Take a break before proceeding!
-
----
-<!-- SLIDE 16 -->
-<!-- .element class="title-and-subtitle" -->
 
 # `<how to succeed>` <!-- .element class="highlight" -->
 
@@ -283,12 +264,24 @@ What is the Growth Mindset response to each of these?  [Answers from the class]
 What questions can you ask yourself when you are feeling stuck? [Answers from the class]
 
 
-
 ---
-For 102 Class 1: 
+
+# Code 102: Intro to Software Development
+
+Class 01
 <!-- SLIDE 25 -->
 <!-- .element class="title-and-subtitle"-->
 
+---
+
+<!-- SLIDE 26 -->
+<!-- .element class="title-and-subtitle" -->
+
+# Agenda
+  - Demo & Lab
+  - Web Publishing <!-- .element class="highlight" -->
+  - Markdown
+  - GitHub Pages
 # `<exercise>` <!-- .element class="highlight" -->
 
 Ready to learn a new thing?
@@ -303,20 +296,6 @@ Run DEMO: See `class-01/demo` in the Facilitator's Guide.
 
 After the Demo, get students going on the LAB assignment.
 
----
-
-<!-- SLIDE 26 -->
-<!-- .element class="title-and-subtitle" -->
-
-# Agenda
-
-- Campus Orientation & Intros
-- Learning to Learn
-  - Growth mindset
-  - Demo & Lab
-  - Web Publishing <!-- .element class="highlight" -->
-  - Markdown
-  - GitHub Pages
 
 ---
 
