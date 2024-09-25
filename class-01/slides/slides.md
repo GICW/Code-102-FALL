@@ -9,7 +9,7 @@ Welcome to Orientation!
 - Sign Code of Conduct, Laptop distribution, computer configs
 - Learning to Learn <!-- .element class="highlight" -->
   - Growth mindset
-  - assignments on Canvas
+  - Assignments on Canvas
 ---
 # Introduce yourself! Tell us ...
 
