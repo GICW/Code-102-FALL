@@ -23,4 +23,3 @@
 ## Tools
 
 - [GitHub](https://www.katacoda.com/courses/git)
-- [Terminal](https://www.katacoda.com/cybershaolin/courses/intro-to-linux/linux-commands-training_kwoon)
