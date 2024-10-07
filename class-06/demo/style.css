@@ -1,6 +1,6 @@
 body{
-    background-color:rgb(104, 96, 226);
-    margin: 0; 
+    background-color:rgb(179, 177, 202);
+    margin: 0;
     padding: 0;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -41,7 +41,7 @@ nav li a:hover{
     color:teal;
     text-decoration:underline;
     font-size: 22px;
-    
+
 }
 
 main {
