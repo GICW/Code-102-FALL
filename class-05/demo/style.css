@@ -1,85 +1,79 @@
 body{
-    background-color:rgb(162, 159, 207);
-    margin: 0;
-    padding: 0;
-    font-family: 'Courier New', Courier, monospace;
+  background-color:rgb(156, 153, 193);
+  margin: 0;
+  padding: 0;
+  font-family:'Courier New', Courier, monospace;
 }
 
-header {
-    background-color: rgb(224, 206, 209);
-    height: 100px;
+header
+{
+  background-color: rgb(224, 206, 209);
+  height: 100px;
 }
 
 h1{
-    float: left;
-    margin-left: 20px;
-    margin-right: 50px;
-    color: red;
-    text-shadow: 5px 5px 5px white;
+  float: left;
+  margin-left: 20px;
+  margin-right: 50px;
+  color:red;
+  text-shadow: 5px 5px 5px white;
 }
 
 ul{
-    padding: 0;
-    margin: 0;
+  padding:0;
+  margin:0;
 }
 
 nav li{
-    display: inline-block;
-    margin-top: 30px;
-    margin-right: 20px;
+  display: inline-block;
+  margin-top: 30px;
+  margin-right: 20px;
 }
 
-nav li a {
-    color: darkgreen;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 600;
-    cursor:pointer;
+nav li a{
+  color: darkgreen;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  cursor:pointer;
 }
 
-nav li a:hover{
-    color:teal;
-    text-decoration:underline;
-    font-size: 22px;
-
-}
-
-main {
-    width: 960px;
-    margin: 30px auto;
-    min-height: 700px;
+main{
+  width: 960px;
+  margin: 30px auto;
+  min-height: 700px;
 }
 
 #hero{
-    width: 960px;
-    height: 600px;
-    border: 3px solid black;
-    /* border-radius: 25px; */
+  width: 960 px;
+  height: 600px;
+  border: 3px solid black;
 }
 
 #hero:hover{
-    border-radius: 0px;
-    border: 3px solid red;
+  border-radius: 0px;
+  border: 3px solid red;
 }
 
 main p{
-    font-size: 20px;
-    margin-top: 30px;
+  font-size: 20px;
+  margin-top: 30px;
 }
 
-.lower {
-    display: inline-block;
-    max-width: 30%;
-    margin: 10px;
-    text-align: center;
+.lower{
+  display: inline-block;
+  max-width: 30%;
+  margin: 10px;
+  text-align: center;
 }
 
 footer{
-    text-align:center;
-    background-color: rgb(224, 206, 209);
-    height: 100px;
+  height: 100px;
+  text-align: center;
+  background-color:rgb(224, 206, 209)
 }
 
 footer p{
-    padding-top: 50px;
+  padding-top: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
